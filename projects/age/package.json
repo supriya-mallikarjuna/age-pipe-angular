@@ -5,6 +5,10 @@
     "@angular/common": "^11.0.9",
     "@angular/core": "^11.0.9"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supriya-mallikarjuna/age-pipe-angular"
+  },
   "dependencies": {
     "tslib": "^2.0.0"
   },
