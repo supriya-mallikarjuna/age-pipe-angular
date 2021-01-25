@@ -1,0 +1,21 @@
+{
+  "name": "age-pipe",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^11.0.9",
+    "@angular/core": "^11.0.9"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "author": {
+    "name": "Supriya BM",
+    "email": "supriya9231@gmail.com"
+  },
+  "keywords": [
+    "pipe",
+    "age-pipe",
+    "agepipe",
+    "angular pipe"
+  ]
+}
